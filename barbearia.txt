@@ -1,0 +1,17 @@
+--- TABELA DE PREÇOS ---
+Corte Social: R$ 35,00
+Corte Degradê: R$ 45,00
+Barba Completa: R$ 30,00
+Combo (Corte + Barba): R$ 65,00
+Sobrancelha: R$ 15,00
+
+--- AGENDA SEMANAL DE FUNCIONAMENTO ---
+Segunda-feira: Fechado
+Terça a Sexta: 09:00 às 19:00
+Sábado: 08:00 às 18:00
+Domingo: 08:00 às 12:00
+
+--- CLIENTES AGENDADOS ---
+Cliente: andre | Dia: 10/11/2026 | Horário: ok | Serviço: corte americano
+Cliente: andre | Dia: 10/11/26 | Horário: 14:00 | Serviço: americano
+Cliente: andre | Dia: hoje | Horário: 14:30 | Serviço: corte americano
